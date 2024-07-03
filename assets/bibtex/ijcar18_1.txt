@@ -1,0 +1,24 @@
+@inproceedings{GeMLZM18,
+  author       = {Cunjing Ge and
+                  Feifei Ma and
+                  Tian Liu and
+                  Jian Zhang and
+                  Xutong Ma},
+  editor       = {Didier Galmiche and
+                  Stephan Schulz and
+                  Roberto Sebastiani},
+  title        = {A New Probabilistic Algorithm for Approximate Model Counting},
+  booktitle    = {Automated Reasoning - 9th International Joint Conference, {IJCAR}
+                  2018, Held as Part of the Federated Logic Conference, FloC 2018, Oxford,
+                  UK, July 14-17, 2018, Proceedings},
+  series       = {Lecture Notes in Computer Science},
+  volume       = {10900},
+  pages        = {312--328},
+  publisher    = {Springer},
+  year         = {2018},
+  url          = {https://doi.org/10.1007/978-3-319-94205-6\_21},
+  doi          = {10.1007/978-3-319-94205-6\_21},
+  timestamp    = {Mon, 28 Aug 2023 21:17:45 +0200},
+  biburl       = {https://dblp.org/rec/conf/cade/GeMLZM18.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

@@ -1,0 +1,22 @@
+@inproceedings{GeMMZHZ19,
+  author       = {Cunjing Ge and
+                  Feifei Ma and
+                  Xutong Ma and
+                  Fan Zhang and
+                  Pei Huang and
+                  Jian Zhang},
+  editor       = {Sarit Kraus},
+  title        = {Approximating Integer Solution Counting via Space Quantification for
+                  Linear Constraints},
+  booktitle    = {Proceedings of the Twenty-Eighth International Joint Conference on
+                  Artificial Intelligence, {IJCAI} 2019, Macao, China, August 10-16,
+                  2019},
+  pages        = {1697--1703},
+  publisher    = {ijcai.org},
+  year         = {2019},
+  url          = {https://doi.org/10.24963/ijcai.2019/235},
+  doi          = {10.24963/IJCAI.2019/235},
+  timestamp    = {Mon, 06 Jan 2020 07:52:07 +0100},
+  biburl       = {https://dblp.org/rec/conf/ijcai/GeMMZHZ19.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

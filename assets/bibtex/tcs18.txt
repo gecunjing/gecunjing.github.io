@@ -1,0 +1,17 @@
+@article{GeMZZ18,
+  author       = {Cunjing Ge and
+                  Feifei Ma and
+                  Peng Zhang and
+                  Jian Zhang},
+  title        = {Computing and estimating the volume of the solution space of {SMT(LA)}
+                  constraints},
+  journal      = {Theor. Comput. Sci.},
+  volume       = {743},
+  pages        = {110--129},
+  year         = {2018},
+  url          = {https://doi.org/10.1016/j.tcs.2016.10.019},
+  doi          = {10.1016/J.TCS.2016.10.019},
+  timestamp    = {Thu, 13 Sep 2018 18:11:44 +0200},
+  biburl       = {https://dblp.org/rec/journals/tcs/GeMZZ18.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

@@ -1,0 +1,25 @@
+@inproceedings{HuangMGZZ18,
+  author       = {Pei Huang and
+                  Feifei Ma and
+                  Cunjing Ge and
+                  Jian Zhang and
+                  Hantao Zhang},
+  editor       = {Didier Galmiche and
+                  Stephan Schulz and
+                  Roberto Sebastiani},
+  title        = {Investigating the Existence of Large Sets of Idempotent Quasigroups
+                  via Satisfiability Testing},
+  booktitle    = {Automated Reasoning - 9th International Joint Conference, {IJCAR}
+                  2018, Held as Part of the Federated Logic Conference, FloC 2018, Oxford,
+                  UK, July 14-17, 2018, Proceedings},
+  series       = {Lecture Notes in Computer Science},
+  volume       = {10900},
+  pages        = {354--369},
+  publisher    = {Springer},
+  year         = {2018},
+  url          = {https://doi.org/10.1007/978-3-319-94205-6\_24},
+  doi          = {10.1007/978-3-319-94205-6\_24},
+  timestamp    = {Mon, 28 Aug 2023 21:17:45 +0200},
+  biburl       = {https://dblp.org/rec/conf/cade/HuangMGZZ18.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

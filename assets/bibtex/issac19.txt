@@ -1,0 +1,23 @@
+@inproceedings{HuangLGMZ19,
+  author       = {Pei Huang and
+                  Minghao Liu and
+                  Cunjing Ge and
+                  Feifei Ma and
+                  Jian Zhang},
+  editor       = {James H. Davenport and
+                  Dongming Wang and
+                  Manuel Kauers and
+                  Russell J. Bradford},
+  title        = {Investigating the Existence of Orthogonal Golf Designs via Satisfiability
+                  Testing},
+  booktitle    = {Proceedings of the 2019 on International Symposium on Symbolic and
+                  Algebraic Computation, {ISSAC} 2019, Beijing, China, July 15-18, 2019},
+  pages        = {203--210},
+  publisher    = {{ACM}},
+  year         = {2019},
+  url          = {https://doi.org/10.1145/3326229.3326232},
+  doi          = {10.1145/3326229.3326232},
+  timestamp    = {Wed, 31 Jan 2024 21:56:28 +0100},
+  biburl       = {https://dblp.org/rec/conf/issac/HuangLGMZ19.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

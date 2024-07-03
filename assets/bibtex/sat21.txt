@@ -1,0 +1,23 @@
+@inproceedings{JinLGMZ21,
+  author       = {Jiwei Jin and
+                  Yiqi Lv and
+                  Cunjing Ge and
+                  Feifei Ma and
+                  Jian Zhang},
+  editor       = {Chu{-}Min Li and
+                  Felip Many{\`{a}}},
+  title        = {Investigating the Existence of Costas Latin Squares via Satisfiability
+                  Testing},
+  booktitle    = {Theory and Applications of Satisfiability Testing - {SAT} 2021 - 24th
+                  International Conference, Barcelona, Spain, July 5-9, 2021, Proceedings},
+  series       = {Lecture Notes in Computer Science},
+  volume       = {12831},
+  pages        = {270--279},
+  publisher    = {Springer},
+  year         = {2021},
+  url          = {https://doi.org/10.1007/978-3-030-80223-3\_19},
+  doi          = {10.1007/978-3-030-80223-3\_19},
+  timestamp    = {Wed, 21 Jul 2021 15:31:30 +0200},
+  biburl       = {https://dblp.org/rec/conf/sat/JinLGMZ21.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

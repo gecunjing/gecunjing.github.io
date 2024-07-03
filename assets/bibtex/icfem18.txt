@@ -1,0 +1,23 @@
+@inproceedings{GeYYZ18,
+  author       = {Cunjing Ge and
+                  Jiwei Yan and
+                  Jun Yan and
+                  Jian Zhang},
+  editor       = {Jing Sun and
+                  Meng Sun},
+  title        = {Checking Activity Transition Systems with Back Transitions Against
+                  Assertions},
+  booktitle    = {Formal Methods and Software Engineering - 20th International Conference
+                  on Formal Engineering Methods, {ICFEM} 2018, Gold Coast, QLD, Australia,
+                  November 12-16, 2018, Proceedings},
+  series       = {Lecture Notes in Computer Science},
+  volume       = {11232},
+  pages        = {388--403},
+  publisher    = {Springer},
+  year         = {2018},
+  url          = {https://doi.org/10.1007/978-3-030-02450-5\_23},
+  doi          = {10.1007/978-3-030-02450-5\_23},
+  timestamp    = {Tue, 25 Aug 2020 13:28:44 +0200},
+  biburl       = {https://dblp.org/rec/conf/icfem/GeYYZ18.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
