@@ -1,0 +1,23 @@
+<style>
+  ul {
+    list-style-type: none;
+    background-color: #f1f1f1;
+    padding: 10px;
+  }
+  li {
+    background-color: #ffffff;
+    padding: 5px;
+    margin-bottom: 5px;
+  }
+</style>
+
+<ul>
+  <?php
+    dir = "./目录路径";files = scandir(dir);
+    foreach (files as file) {
+      if (file != "." && file != "..") {
+        echo "<li><a href=\"dir/file\">file</a></li>";
+      }
+    }
+  ?>
+</ul>
