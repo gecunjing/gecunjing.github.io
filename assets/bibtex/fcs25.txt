@@ -1,0 +1,15 @@
+@article{DBLP:journals/fcsc/Ge25,
+  author       = {Cunjing Ge},
+  title        = {SharpSMT: a scalable toolkit for measuring solution spaces of {SMT(LA)}
+                  formulas},
+  journal      = {Frontiers Comput. Sci.},
+  volume       = {19},
+  number       = {8},
+  pages        = {198336},
+  year         = {2025},
+  url          = {https://doi.org/10.1007/s11704-024-40500-z},
+  doi          = {10.1007/S11704-024-40500-Z},
+  timestamp    = {Wed, 12 Feb 2025 09:01:47 +0100},
+  biburl       = {https://dblp.org/rec/journals/fcsc/Ge25.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
