@@ -1,0 +1,29 @@
+@inproceedings{DBLP:conf/nips/HuLJGLJZ25,
+  author       = {Wen{-}Chao Hu and
+                  Qi{-}Jie Li and
+                  Lin{-}Han Jia and
+                  Cunjing Ge and
+                  Yufeng Li and
+                  Yuan Jiang and
+                  Zhi{-}Hua Zhou},
+  editor       = {Danielle Belgrave and
+                  Cheng Zhang and
+                  Laura N. Montoya and
+                  Hsuan{-}Tien Lin and
+                  Razvan Pascanu and
+                  Piotr Koniusz and
+                  Marzyeh Ghassemi and
+                  Nancy Chen and
+                  Iv{\'{a}}n Vladimir Meza Ru{\'{\i}}z and
+                  Arturo Loaiza{-}Bonilla},
+  title        = {Curriculum Abductive Learning},
+  booktitle    = {Advances in Neural Information Processing Systems 38: Annual Conference
+                  on Neural Information Processing Systems 2025, NeurIPS 2025, San Diago,
+                  CA, USA, December 2-7, 2025 / Mexico City, Mexico, November 30 - December
+                  5, 2025},
+  year         = {2025},
+  url          = {http://papers.nips.cc/paper\_files/paper/2025/hash/fed1ea8dcc2a13f3835cc854e8c8294c-Abstract-Conference.html},
+  timestamp    = {Tue, 16 Jun 2026 07:17:15 +0200},
+  biburl       = {https://dblp.org/rec/conf/nips/HuLJGLJZ25.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

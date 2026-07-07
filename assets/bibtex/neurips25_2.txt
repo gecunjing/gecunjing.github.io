@@ -1,0 +1,8 @@
+@article{gao2026discovering,
+  title={Discovering Symbolic Partial Differential Equation by Abductive Learning},
+  author={Gao, En-Hao and Ge, Cunjing and Jiang, Yuan and Zhou, Zhi-Hua},
+  journal={Advances in Neural Information Processing Systems},
+  volume={38},
+  pages={57359--57385},
+  year={2026}
+}
